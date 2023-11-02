@@ -1,0 +1,24 @@
+#face-image {
+    margin: 40px auto;
+    max-width: 150px;
+    display: block;
+    border: 1px solid red;
+}
+#canvas {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+.prg .oneprg .smallprg:nth-child(1) {
+    padding-bottom: 0 !important;
+}
+
+.prg .oneprg .smallprg:nth-child(3) p:nth-child(8) {
+    margin-bottom: 0 !important;
+}
+
+.prg .oneprg .lastprg p:nth-child(6) {
+    margin-bottom: 0 !important;
+}
